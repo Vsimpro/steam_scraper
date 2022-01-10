@@ -31,7 +31,7 @@ def pull(team):
         code = 1
         
     elif data["success"] == False:
-        print(f"[!] COULD NOT PULL {team}, check it's hashname!")    
+        print(f"[!] COULD NOT PULL {team}, check its hashname!")    
         code = 2
         
     else: 
