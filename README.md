@@ -1,2 +1,2 @@
-# steamapi
-Steam Community Market- scraper I used to pull sticker prices during PGL Major
+# Steam Scraper
+Steam Community Market- API scraper I used to pull sticker prices during PGL Major
